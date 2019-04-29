@@ -1,0 +1,2 @@
+C:\MinGW\bin\ar.exe qc libFila.a  CMakeFiles/Fila.dir/library.c.obj
+C:\MinGW\bin\ranlib.exe libFila.a
